@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+muscaps.egg-info/PKG-INFO
+muscaps.egg-info/SOURCES.txt
+muscaps.egg-info/dependency_links.txt
+muscaps.egg-info/top_level.txt
