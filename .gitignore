@@ -1,4 +1,4 @@
-*.tar
+checkpoint.pth.tar
 *.zip
 *.txt
 *.txt.pt
