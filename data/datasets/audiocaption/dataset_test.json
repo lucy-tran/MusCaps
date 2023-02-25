@@ -1,0 +1,220 @@
+[
+	{
+		"track_id": "waiting",
+		"caption": {
+			"raw": "sad mood, girl, standing, on a dock, evening, autumn, emotional, waiting, sun setting",
+			"tokens": [
+				"sad",
+				"mood",
+				"girl",
+				"standing",
+				"on",
+				"a",
+				"dock",
+				"evening",
+				"autumn",
+				"emotional",
+				"waiting",
+				"sun",
+				"setting"
+			]
+		}
+	},
+	{
+		"track_id": "waterfalls",
+		"caption": {
+			"raw": "happy mood, waterfall, flowing peacefully, on mountain, noon, autumn, nostalgia, autumn leaves flying, sun shining",
+			"tokens": [
+				"happy",
+				"mood",
+				"waterfall",
+				"flowing",
+				"peacefully",
+				"on",
+				"mountain",
+				"noon",
+				"autumn",
+				"nostalgia",
+				"autumn",
+				"leaves",
+				"flying",
+				"sun",
+				"shining"
+			]
+		}
+	},
+	{
+		"track_id": "we-can-do-it",
+		"caption": {
+			"raw": "exciting mood, group of soldiers, charging, in battle field, noon, spring, victory, cinematic, sun shining",
+			"tokens": [
+				"exciting",
+				"mood",
+				"group",
+				"of",
+				"soldiers",
+				"charging",
+				"in",
+				"battle",
+				"field",
+				"noon",
+				"spring",
+				"victory",
+				"cinematic",
+				"sun",
+				"shining"
+			]
+		}
+	},
+	{
+		"track_id": "wedding-love-story",
+		"caption": {
+			"raw": "exciting mood, bride, holding and kissing groom, in wedding party, noon, spring, joyful, cinematic, beautiful scene",
+			"tokens": [
+				"exciting",
+				"mood",
+				"bride",
+				"holding",
+				"and",
+				"kissing",
+				"groom",
+				"in",
+				"wedding",
+				"party",
+				"noon",
+				"spring",
+				"joyful",
+				"cinematic",
+				"beautiful",
+				"scene"
+			]
+		}
+	},
+	{
+		"track_id": "with-all-my-heart",
+		"caption": {
+			"raw": "happy mood, a heart, flying, from open hands, morning, spring, joyful, cinematic",
+			"tokens": [
+				"happy",
+				"mood",
+				"a",
+				"heart",
+				"flying",
+				"from",
+				"open",
+				"hands",
+				"morning",
+				"spring",
+				"joyful",
+				"cinematic"
+			]
+		}
+	},
+	{
+		"track_id": "you-are-always-with-me",
+		"caption": {
+			"raw": "happy mood, two birds, perching on tree, in forest, morning, winter, emotional, wind blowing snow, beautiful scene",
+			"tokens": [
+				"happy",
+				"mood",
+				"two",
+				"birds",
+				"perching",
+				"on",
+				"tree",
+				"in",
+				"forest",
+				"morning",
+				"winter",
+				"emotional",
+				"wind",
+				"blowing",
+				"snow",
+				"beautiful",
+				"scene"
+			]
+		}
+	},
+	{
+		"track_id": "1_Te_Amo",
+		"caption": {
+			"raw": "happy mood, couple, strolling, along the river bank, morning, autumn, peaceful, sun setting",
+			"tokens": [
+				"happy",
+				"mood",
+				"couple",
+				"strolling",
+				"along",
+				"the",
+				"river",
+				"bank",
+				"morning",
+				"autumn",
+				"peaceful",
+				"sun",
+				"setting"
+			]
+		}
+	},
+	{
+		"track_id": "2_Winter_The_Four_Seasons",
+		"caption": {
+			"raw": "scary mood, trees, standing, on mountains, noon, winter, cold, intense snow storm",
+			"tokens": [
+				"scary",
+				"mood",
+				"trees",
+				"standing",
+				"on",
+				"mountains",
+				"noon",
+				"winter",
+				"cold",
+				"intense",
+				"snow",
+				"storm"
+			]
+		}
+	},
+	{
+		"track_id": "3_Naruto-Sadness_and_Sorrow",
+		"caption": {
+			"raw": "sad mood, man, standing, in cemetery, evening, autumn, sorrow, wind blowing",
+			"tokens": [
+				"sad",
+				"mood",
+				"man",
+				"standing",
+				"in",
+				"cemetery",
+				"evening",
+				"autumn",
+				"sorrow",
+				"wind",
+				"blowing"
+			]
+		}
+	},
+	{
+		"track_id": "4_Victory",
+		"caption": {
+			"raw": "exciting mood, an army, riding horses, in battle field, evening, spring, joyful, war victory",
+			"tokens": [
+				"exciting",
+				"mood",
+				"an",
+				"army",
+				"riding",
+				"horses",
+				"in",
+				"battle",
+				"field",
+				"evening",
+				"spring",
+				"joyful",
+				"war",
+				"victory"
+			]
+		}
+	}
+]

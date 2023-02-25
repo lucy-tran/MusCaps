@@ -1,0 +1,238 @@
+[
+	{
+		"track_id": "5_Memories",
+		"caption": {
+			"raw": "tender mood, man, helping his child to ride a bike, open field, evening, autumn, joyful, beautiful memories",
+			"tokens": [
+				"tender",
+				"mood",
+				"man",
+				"helping",
+				"his",
+				"child",
+				"to",
+				"ride",
+				"a",
+				"bike",
+				"open",
+				"field",
+				"evening",
+				"autumn",
+				"joyful",
+				"beautiful",
+				"memories"
+			]
+		}
+	},
+	{
+		"track_id": "Across-the-Park",
+		"caption": {
+			"raw": "happy mood, girl, riding horse, across a park, noon, spring, joyful, dreamy, sun shining",
+			"tokens": [
+				"happy",
+				"mood",
+				"girl",
+				"riding",
+				"horse",
+				"across",
+				"a",
+				"park",
+				"noon",
+				"spring",
+				"joyful",
+				"dreamy",
+				"sun",
+				"shining"
+			]
+		}
+	},
+	{
+		"track_id": "Autumn-Scene",
+		"caption": {
+			"raw": "happy mood, couple, looking down river, from a bridge, evening, autumn, emotional, autumn leaves flying, beautiful scene",
+			"tokens": [
+				"happy",
+				"mood",
+				"couple",
+				"looking",
+				"down",
+				"river",
+				"from",
+				"a",
+				"bridge",
+				"evening",
+				"autumn",
+				"emotional",
+				"autumn",
+				"leaves",
+				"flying",
+				"beautiful",
+				"scene"
+			]
+		}
+	},
+	{
+		"track_id": "Autumn",
+		"caption": {
+			"raw": "exciting mood, couple, chasing each other, across a park, morning, autumn, joyful, dreamy, autumn leaves flying",
+			"tokens": [
+				"exciting",
+				"mood",
+				"couple",
+				"chasing",
+				"each",
+				"other",
+				"across",
+				"a",
+				"park",
+				"morning",
+				"autumn",
+				"joyful",
+				"dreamy",
+				"autumn",
+				"leaves",
+				"flying"
+			]
+		}
+	},
+	{
+		"track_id": "Beautiful-Piano",
+		"caption": {
+			"raw": "happy mood, girl, playing piano, on blue abstract background, morning, spring, joyful, music notes flying around",
+			"tokens": [
+				"happy",
+				"mood",
+				"girl",
+				"playing",
+				"piano",
+				"on",
+				"blue",
+				"abstract",
+				"background",
+				"morning",
+				"spring",
+				"joyful",
+				"music",
+				"notes",
+				"flying",
+				"around"
+			]
+		}
+	},
+	{
+		"track_id": "Beethoven_Piano_Sonata_D_major_I_Allegro",
+		"caption": {
+			"raw": "exciting mood, shepherd, leading a flock of sheep, on green pasture, morning, spring, joyful, sun shining, beautiful scene",
+			"tokens": [
+				"exciting",
+				"mood",
+				"shepherd",
+				"leading",
+				"a",
+				"flock",
+				"of",
+				"sheep",
+				"on",
+				"green",
+				"pasture",
+				"morning",
+				"spring",
+				"joyful",
+				"sun",
+				"shining",
+				"beautiful",
+				"scene"
+			]
+		}
+	},
+	{
+		"track_id": "Calm-and-Peaceful",
+		"caption": {
+			"raw": "tender mood, canoe, floating, on river, night, spring, peaceful, moon shining, beautiful scene",
+			"tokens": [
+				"tender",
+				"mood",
+				"canoe",
+				"floating",
+				"on",
+				"river",
+				"night",
+				"spring",
+				"peaceful",
+				"moon",
+				"shining",
+				"beautiful",
+				"scene"
+			]
+		}
+	},
+	{
+		"track_id": "Cinematic-piano-lights",
+		"caption": {
+			"raw": "tender mood, butterflies made by lights, flying, open field, night, spring, nostalgia, dreamy, beautiful scene",
+			"tokens": [
+				"tender",
+				"mood",
+				"butterflies",
+				"made",
+				"by",
+				"lights",
+				"flying",
+				"open",
+				"field",
+				"night",
+				"spring",
+				"nostalgia",
+				"dreamy",
+				"beautiful",
+				"scene"
+			]
+		}
+	},
+	{
+		"track_id": "Circus-Theme-Entry-of-the-Gladiators",
+		"caption": {
+			"raw": "exciting mood, gladiator, making an entry, in circuit, night, spring, joyful, crowd cheering",
+			"tokens": [
+				"exciting",
+				"mood",
+				"gladiator",
+				"making",
+				"an",
+				"entry",
+				"in",
+				"circuit",
+				"night",
+				"spring",
+				"joyful",
+				"crowd",
+				"cheering"
+			]
+		}
+	},
+	{
+		"track_id": "driftamonginfinitestars",
+		"caption": {
+			"raw": "tender mood, girl, looking at laterns floating, on an open sky, night, spring, emotional, dreamy, beautiful scene",
+			"tokens": [
+				"tender",
+				"mood",
+				"girl",
+				"looking",
+				"at",
+				"laterns",
+				"floating",
+				"on",
+				"an",
+				"open",
+				"sky",
+				"night",
+				"spring",
+				"emotional",
+				"dreamy",
+				"beautiful",
+				"scene"
+			]
+		}
+	}
+]
