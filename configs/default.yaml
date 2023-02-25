@@ -11,7 +11,7 @@ training:
   # Learning rate
   lr: 0.0001
   patience: 5
-  batch_size: 8
+  batch_size: 10
   # Number of workers to be used in dataloader
   num_workers: 4
   # Whether to shuffle in dataloader

@@ -1,0 +1,5 @@
+*.tar
+*.zip
+*.txt
+*.txt.pt
+.DS_Store
