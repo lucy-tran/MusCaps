@@ -1,0 +1,72 @@
+[
+  {
+    "image_id": 0,
+    "test": "<sos> tender mood mood <unk> <unk> <unk> open morning spring spring dreamy shining <eos>",
+    "refs": [
+      "<sos> sad mood girl <unk> on a <unk> evening autumn emotional <unk> sun <unk> <eos>"
+    ]
+  },
+  {
+    "image_id": 1,
+    "test": "<sos> happy mood mood <unk> <unk> <unk> open open night spring spring spring cinematic cinematic <eos>",
+    "refs": [
+      "<sos> happy mood <unk> flowing <unk> on mountain noon autumn nostalgia autumn leaves flying sun shining <eos>"
+    ]
+  },
+  {
+    "image_id": 2,
+    "test": "<sos> mood mood <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <eos>",
+    "refs": [
+      "<sos> exciting mood group of <unk> <unk> in <unk> field noon spring <unk> cinematic sun shining <eos>"
+    ]
+  },
+  {
+    "image_id": 3,
+    "test": "<sos> happy mood mood <unk> <unk> <unk> <unk> open open night spring spring spring <unk> shining <eos>",
+    "refs": [
+      "<sos> exciting mood <unk> holding and <unk> <unk> in <unk> <unk> noon spring joyful cinematic beautiful scene <eos>"
+    ]
+  },
+  {
+    "image_id": 4,
+    "test": "<sos> tender mood mood <unk> <unk> <unk> <unk> <unk> night spring spring spring cinematic <eos>",
+    "refs": [
+      "<sos> happy mood a heart flying from open hands morning spring joyful cinematic <eos>"
+    ]
+  },
+  {
+    "image_id": 5,
+    "test": "<sos> tender mood mood <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <eos>",
+    "refs": [
+      "<sos> happy mood <unk> <unk> <unk> on <unk> in <unk> morning winter emotional wind blowing snow beautiful scene <eos>"
+    ]
+  },
+  {
+    "image_id": 6,
+    "test": "<sos> tender mood mood <unk> <unk> <unk> <unk> <unk> night night <unk> <eos>",
+    "refs": [
+      "<sos> happy mood couple <unk> <unk> the river <unk> morning autumn peaceful sun <unk> <eos>"
+    ]
+  },
+  {
+    "image_id": 7,
+    "test": "<sos> exciting mood mood <unk> <unk> <unk> <unk> <unk> <unk> night night spring spring spring cinematic <eos>",
+    "refs": [
+      "<sos> scary mood trees <unk> on <unk> noon winter <unk> <unk> snow <unk> <eos>"
+    ]
+  },
+  {
+    "image_id": 8,
+    "test": "<sos> tender mood mood <unk> <unk> <unk> <unk> <unk> open open night night spring <unk> <unk> <eos>",
+    "refs": [
+      "<sos> sad mood man <unk> in <unk> evening autumn <unk> wind blowing <eos>"
+    ]
+  },
+  {
+    "image_id": 9,
+    "test": "<sos> happy mood mood <unk> <unk> <unk> on on <unk> night night spring <unk> <unk> <eos>",
+    "refs": [
+      "<sos> exciting mood an <unk> <unk> <unk> in <unk> field evening spring joyful war <unk> <eos>"
+    ]
+  }
+]
