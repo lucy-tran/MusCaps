@@ -1,3 +1,5 @@
+Trained with audiocaption0
+
 Epoch	train_loss	val_loss	epoch_time	learing_rate	time_stamp
 1	4.69919	4.5461	107.844s	0.0001	2023-02-25 00:06:28
 2	4.50542	4.32177	95.9772s	0.0001	2023-02-25 00:08:04
