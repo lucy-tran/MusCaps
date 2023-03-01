@@ -1,0 +1,58 @@
+{
+    "predictions": [
+        "<sos> tender mood a is a open open night spring spring dreamy <eos>",
+        "<sos> happy mood a <unk> is <unk> open open open night spring spring cinematic <eos>",
+        "<sos> tender mood a <unk> is <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <eos>",
+        "<sos> happy mood a <unk> is <unk> <unk> <unk> open open night spring cinematic the <eos>",
+        "<sos> tender mood a is is <unk> <unk> a <unk> night spring spring <unk> <unk> <eos>",
+        "<sos> tender mood a a is <unk> <unk> <unk> <unk> a a <unk> <unk> <unk> <unk> <unk> <unk> <eos>",
+        "<sos> tender mood a <unk> is is <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <eos>",
+        "<sos> exciting mood a <unk> is is <unk> open open night night night joyful cinematic <eos>",
+        "<sos> tender mood a <unk> is <unk> <unk> <unk> <unk> <unk> <unk> spring <unk> <unk> <unk> <eos>",
+        "<sos> tender mood a a is is <unk> <unk> <unk> a <unk> <unk> <unk> <unk> <unk> <unk> <eos>"
+    ],
+    "true_captions": [
+        [
+            "<sos> stars mood a <unk> singing peaceful <unk> road evening people <unk> in <unk> <eos>"
+        ],
+        [
+            "<sos> joyful mood <unk> garden <unk> singing her of evening is evening emotional notes in morning <eos>"
+        ],
+        [
+            "<sos> sun mood shining exciting <unk> <unk> trees <unk> open of to <unk> noon in morning <eos>"
+        ],
+        [
+            "<sos> sun mood <unk> and old <unk> <unk> trees <unk> <unk> of to summer noon beautiful scene <eos>"
+        ],
+        [
+            "<sos> joyful mood peaceful flowers notes head star lifting are to summer noon <eos>"
+        ],
+        [
+            "<sos> joyful mood <unk> <unk> <unk> singing <unk> trees <unk> are the people snow falling cinematic beautiful scene <eos>"
+        ],
+        [
+            "<sos> joyful mood table <unk> <unk> hopeful house <unk> are evening music in <unk> <eos>"
+        ],
+        [
+            "<sos> scary mood around <unk> singing <unk> of the <unk> <unk> cinematic <unk> <eos>"
+        ],
+        [
+            "<sos> stars mood an <unk> trees <unk> road evening <unk> snow falling <eos>"
+        ],
+        [
+            "<sos> sun mood dancing <unk> <unk> <unk> trees <unk> open road to summer destroyed <unk> <eos>"
+        ]
+    ],
+    "audio_paths": [
+        "/home/lucy-tran/music_on_canvas/MusCaps/data/datasets/audiocaption/audio/waiting.npy",
+        "/home/lucy-tran/music_on_canvas/MusCaps/data/datasets/audiocaption/audio/waterfalls.npy",
+        "/home/lucy-tran/music_on_canvas/MusCaps/data/datasets/audiocaption/audio/we-can-do-it.npy",
+        "/home/lucy-tran/music_on_canvas/MusCaps/data/datasets/audiocaption/audio/wedding-love-story.npy",
+        "/home/lucy-tran/music_on_canvas/MusCaps/data/datasets/audiocaption/audio/with-all-my-heart.npy",
+        "/home/lucy-tran/music_on_canvas/MusCaps/data/datasets/audiocaption/audio/you-are-always-with-me.npy",
+        "/home/lucy-tran/music_on_canvas/MusCaps/data/datasets/audiocaption/audio/1_Te_Amo.npy",
+        "/home/lucy-tran/music_on_canvas/MusCaps/data/datasets/audiocaption/audio/2_Winter_The_Four_Seasons.npy",
+        "/home/lucy-tran/music_on_canvas/MusCaps/data/datasets/audiocaption/audio/3_Naruto-Sadness_and_Sorrow.npy",
+        "/home/lucy-tran/music_on_canvas/MusCaps/data/datasets/audiocaption/audio/4_Victory.npy"
+    ]
+}
