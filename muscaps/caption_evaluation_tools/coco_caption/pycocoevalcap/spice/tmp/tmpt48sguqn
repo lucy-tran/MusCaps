@@ -1,0 +1,72 @@
+[
+  {
+    "image_id": 0,
+    "test": "<sos> tender mood a is a open open night spring spring dreamy <eos>",
+    "refs": [
+      "<sos> stars mood a <unk> singing peaceful <unk> road evening people <unk> in <unk> <eos>"
+    ]
+  },
+  {
+    "image_id": 1,
+    "test": "<sos> happy mood a <unk> is <unk> open open open night spring spring cinematic <eos>",
+    "refs": [
+      "<sos> joyful mood <unk> garden <unk> singing her of evening is evening emotional notes in morning <eos>"
+    ]
+  },
+  {
+    "image_id": 2,
+    "test": "<sos> tender mood a <unk> is <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <eos>",
+    "refs": [
+      "<sos> sun mood shining exciting <unk> <unk> trees <unk> open of to <unk> noon in morning <eos>"
+    ]
+  },
+  {
+    "image_id": 3,
+    "test": "<sos> happy mood a <unk> is <unk> <unk> <unk> open open night spring cinematic the <eos>",
+    "refs": [
+      "<sos> sun mood <unk> and old <unk> <unk> trees <unk> <unk> of to summer noon beautiful scene <eos>"
+    ]
+  },
+  {
+    "image_id": 4,
+    "test": "<sos> tender mood a is is <unk> <unk> a <unk> night spring spring <unk> <unk> <eos>",
+    "refs": [
+      "<sos> joyful mood peaceful flowers notes head star lifting are to summer noon <eos>"
+    ]
+  },
+  {
+    "image_id": 5,
+    "test": "<sos> tender mood a a is <unk> <unk> <unk> <unk> a a <unk> <unk> <unk> <unk> <unk> <unk> <eos>",
+    "refs": [
+      "<sos> joyful mood <unk> <unk> <unk> singing <unk> trees <unk> are the people snow falling cinematic beautiful scene <eos>"
+    ]
+  },
+  {
+    "image_id": 6,
+    "test": "<sos> tender mood a <unk> is is <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <eos>",
+    "refs": [
+      "<sos> joyful mood table <unk> <unk> hopeful house <unk> are evening music in <unk> <eos>"
+    ]
+  },
+  {
+    "image_id": 7,
+    "test": "<sos> exciting mood a <unk> is is <unk> open open night night night joyful cinematic <eos>",
+    "refs": [
+      "<sos> scary mood around <unk> singing <unk> of the <unk> <unk> cinematic <unk> <eos>"
+    ]
+  },
+  {
+    "image_id": 8,
+    "test": "<sos> tender mood a <unk> is <unk> <unk> <unk> <unk> <unk> <unk> spring <unk> <unk> <unk> <eos>",
+    "refs": [
+      "<sos> stars mood an <unk> trees <unk> road evening <unk> snow falling <eos>"
+    ]
+  },
+  {
+    "image_id": 9,
+    "test": "<sos> tender mood a a is is <unk> <unk> <unk> a <unk> <unk> <unk> <unk> <unk> <unk> <eos>",
+    "refs": [
+      "<sos> sun mood dancing <unk> <unk> <unk> trees <unk> open road to summer destroyed <unk> <eos>"
+    ]
+  }
+]
